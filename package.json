@@ -5,7 +5,7 @@
   "author": "Class Central, Inc",
   "dependencies": {
     "babel-runtime": "^6.26.0",
-    "blueimp-file-upload": "9.18.0",
+    "blueimp-file-upload": "9.22.1",
     "classcentral-style": "git+https://github.com/classcentral/classcentral-style.git#v0.4.16",
     "countup.js": "1.8.5",
     "flexslider": "2.6.3",
@@ -27,7 +27,7 @@
     "tippy.js": "^2.5.2",
     "typeahead.js": "0.10.4",
     "uuid": "3.0.1",
-    "webpack": "2.5.1"
+    "webpack": "3.11.0"
   },
   "devDependencies": {
     "babel-core": "6.24.1",
