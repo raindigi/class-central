@@ -5,7 +5,7 @@
   "author": "Class Central, Inc",
   "dependencies": {
     "babel-runtime": "^6.26.0",
-    "blueimp-file-upload": "9.18.0",
+    "blueimp-file-upload": "9.34.0",
     "classcentral-style": "git+https://github.com/classcentral/classcentral-style.git#v0.4.16",
     "countup.js": "1.8.5",
     "flexslider": "2.6.3",
